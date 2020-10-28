@@ -2,7 +2,6 @@
 """
 Created on Sun Oct 25 09:47:32 2020
 
-@author: Sasho
 
 A function which finds the neighbours of the provided 'position' as a tuple and returns a list
 of tuples, the neighbours
